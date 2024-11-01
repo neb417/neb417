@@ -1,4 +1,4 @@
-[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,postgres,redis,heroku,github,apple,rubymine,api,sass,tailwind,js,terminal&theme=dark)]()
+[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,postgres,redis,git,heroku,github,githubactions,rubymine,postman,api,sass,tailwind,bootstrap,js,terminal&theme=dark)]()
 
 ### About
 I am a passionate Software Engineer with a strong foundation in full-stack development, particularly in Ruby on Rails. 
