@@ -1,4 +1,4 @@
-[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,postgres,redis,git,heroku,github,githubactions,rubymine,postman,api,sass,tailwind,bootstrap,js,terminal&theme=dark)]()
+[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,postgres,redis,git,heroku,github,githubactions)]()
 
 ### About
 I am a passionate Software Engineer with a strong foundation in full-stack development, particularly in Ruby on Rails. 
@@ -16,6 +16,7 @@ I am committed to delivering high-quality software solutions and continuously ex
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ben-randolph-43881a95/)
 
+[![More Skills](https://go-skill-icons.vercel.app/api/icons?i=rubymine,postman,api,sass,tailwind,bootstrap,js,terminal&theme=dark)]()
 <!--
 **neb417/neb417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
