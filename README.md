@@ -1,4 +1,4 @@
-[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,js,sass,postgres,redis,heroku,github,apple,rubymine,api,terminal&theme=dark)]()
+[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,postgres,redis,heroku,github,apple,rubymine,api,sass,tailwind,js,terminal&theme=dark)]()
 
 ### About
 I am a passionate Software Engineer with a strong foundation in full-stack development, particularly in Ruby on Rails. 
@@ -11,6 +11,10 @@ This unique blend of technical and managerial experience allows me to approach c
 I thrive in collaborative environments and enjoy mentoring others, fostering growth and learning within teams. 
 My technical skills include Ruby on Rails, PostgreSQL, Redis, and CI/CD processes, complemented by a solid understanding of Agile workflows and Test-Driven Development. 
 I am committed to delivering high-quality software solutions and continuously expanding my knowledge in the ever-evolving tech landscape.
+
+🌱 I’m currently learning JavaScript and React to expand my front-end development skills.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/ben-randolph-43881a95/)
 
 <!--
 **neb417/neb417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
