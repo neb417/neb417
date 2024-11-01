@@ -14,7 +14,7 @@ I am committed to delivering high-quality software solutions and continuously ex
 
 🌱 I’m currently learning JavaScript and React to expand my front-end development skills.
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/ben-randolph-43881a95/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ben-randolph-43881a95/)
 
 <!--
 **neb417/neb417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
