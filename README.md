@@ -13,7 +13,9 @@ My technical skills include Ruby on Rails, PostgreSQL, Redis, and CI/CD processe
 I am committed to delivering high-quality software solutions and continuously expanding my knowledge in the ever-evolving tech landscape.
 
 I’m currently learning:
+
   🌱 JavaScript and React to expand my front-end development skills.
+  
   🌱 Python to expand back-end development skills.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ben-randolph-43881a95/)
